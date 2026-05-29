@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/melt-into-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Melt Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-into-you/) |
+| **Get License** | [Music Rights & Licensing for Melt Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-into-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want to melt into you, like the amber in the fire
+> I want to melt into you, pulling closer to the wire
+> Every breath you take is pulling me inside
+> In the warmth of your embrace, there's nothing left to hide
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
