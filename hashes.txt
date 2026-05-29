@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Melt Into You
+
+This log tracks the cryptographic history and versioning for the song **Melt Into You** (melt-into-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T16:45:10.772578 | `v1` | `22ae523a497e5c0bf68dd2caed4063dcc0fd42cf0890262c8544281703a4f328` | `b1c2b63dcfaf7846c8255c99bcc6d539559e5282fd2605cb9e797214f91602e5` | `2026-05-29_melt-into-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

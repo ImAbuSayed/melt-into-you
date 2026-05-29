@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/melt-into-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Melt Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-into-you/) |
+| **Get License** | [Official Music Licensing for Melt Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/melt-into-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `22ae523a497e5c0bf68dd2caed4063dcc0fd42cf0890262c8544281703a4f328` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
